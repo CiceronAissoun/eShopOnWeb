@@ -9,7 +9,7 @@ env:
   LOCATION: canadaeast
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 73539af6-ae02-4292-b692-278f0606c7ee
-  WEBAPP-NAME: az400-webapp-eshoponwebApp
+  WEBAPP-NAME: az400-webapp-eshoponwebCicOvApp
 
 
 jobs:
